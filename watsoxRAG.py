@@ -9,7 +9,7 @@ from genai.credentials import Credentials
 load_dotenv()
 
 # Get the API key and URL from the environment variables
-api_key = os.getenv("GENAI_KEY", None)
+api_key = os.getenv("V6xxL8qhYUxQjFH4evxnvc_d4PtvgSK-IuiSNHH1EqeR", None)
 api_url = os.getenv("GENAI_API", None)
 
 # Create a Credentials object to pass to the LangChainInterface
